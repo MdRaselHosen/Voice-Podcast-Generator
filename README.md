@@ -1,0 +1,4 @@
+- Take an URL as Input
+- Web scraper using Firecrawl -> Get content
+- Content summarizer with OpenRouter API key
+- Podcast Generator from Summarize content using Eleven Labs
