@@ -1,0 +1,11 @@
+crewai
+crewai-tools
+elevenlabs
+python-dotenv
+firecrawl
+crewai[google-genai]
+google-genai
+crewai
+langchain-huggingface
+litellm
+streamlit
