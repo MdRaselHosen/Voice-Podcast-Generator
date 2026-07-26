@@ -2,3 +2,6 @@
 - Web scraper using Firecrawl -> Get content
 - Content summarizer with OpenRouter API key
 - Podcast Generator from Summarize content using Eleven Labs
+
+- Hosted on Steamlit
+- URL - https://voice-podcast-generator.streamlit.app
